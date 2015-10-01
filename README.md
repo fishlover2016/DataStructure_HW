@@ -9,3 +9,9 @@ Once a word presents above N times in the artical,(number N is input from Comman
 
 the program will show how many times and where is the first place the word shows up.
 
+
+
+HW2:
+
+convert infix to postfix and prefix
+
